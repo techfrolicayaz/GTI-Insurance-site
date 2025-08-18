@@ -4124,7 +4124,7 @@ Main Header
   color: var(--theme-color-dark);
 }
 .header-style-two .main-menu .navigation > li {
-  margin-right: 58px;
+  margin-right: 56px;
 }
 .header-style-two .main-menu .navigation > li:before {
   background-color: var(--theme-color1);
